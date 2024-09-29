@@ -1,6 +1,5 @@
 # CodeAlpha_Unemployment_In_India
-Unemployment Analysis with Python
-Overview
+
 Unemployment Analysis with Python.ipynb provides an analysis of unemployment rates before and during a specified event, possibly the COVID-19 lockdown. It leverages Python libraries such as pandas, seaborn, and matplotlib to visualize and compare unemployment trends across different states.
 
 Key Features
